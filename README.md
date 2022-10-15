@@ -8,7 +8,7 @@
   I'm a boy who interested in Robots 🤖, AI 🧠, and App Development 💻
 </h2>
 
-I'm currently a freshman at KMITL and have competed in a number of robotics competitions. I've experienced with 3D and circuit design, app development (Obj-C, Swift), and microcontroller programming. You can contact me via Instagram `@punumzzz`, or Discord `ItsWH0P1TY#9705`
+I'm currently a freshman at KMITL and have competed in a number of robotics competitions. I've experienced with 3D and circuit design, app development (Obj-C, Swift), and microcontroller programming. You can contact me via Instagram `@punumzzz`, or Discord `ItsWH0P1TY#6969`
 
 
 ### What I'm working on
